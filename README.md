@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre mí  
 - 💻 Apasionado por la programación y la tecnología.  
-- 📚 En constante aprendizaje de lenguajes, frameworks y buenas prácticas.  
+- 📚 En constante aprendizaje de lenguajes y buenas prácticas.  
 - 🤝 Abierto a colaborar en proyectos que me permitan crecer profesionalmente.  
-- 🌱 Actualmente profundizando en **Java, Kotlin, C#, SQL, HTML, CSS y JavaScript**.  
+- 🌱 Actualmente profundizando en **Java, SQL, HTML, CSS y JavaScript**.  
 
 ---
 
