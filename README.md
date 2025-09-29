@@ -19,20 +19,21 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,java" />
   </a>
 </p>
+
  **Bases de datos:** 
 <p align="align">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
+
  **Entornos:**   
 <p align="align">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,androidstudio" />
-     <img src="https://w7.pngwing.com/pngs/259/9/png-transparent-netbeans-logo-company-logo-brand-logo-company-brand-3d-icon.png" />
-    
   </a>
 </p>
+
  **Otros:**
 <p align="align">
   <a href="https://skillicons.dev">
