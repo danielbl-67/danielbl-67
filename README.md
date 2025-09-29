@@ -29,7 +29,7 @@
 <p align="align">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,androidstudio" />
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" />
+     <img src="https://w7.pngwing.com/pngs/259/9/png-transparent-netbeans-logo-company-logo-brand-logo-company-brand-3d-icon.png" />
     
   </a>
 </p>
