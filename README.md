@@ -13,25 +13,25 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas  
--**Lenguajes programacion
+**Lenguajes programacion
 <p align="align">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java" />
   </a>
 </p>
-- **Bases de datos:** 
+ **Bases de datos:** 
 <p align="align">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-- **Entornos:** Android Studio | Visual Studio | IntelliJ IDEA | Eclipse  
+ **Entornos:**   
 <p align="align">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode,intelli,androidstudio" />
   </a>
 </p>
-- **Otros:** Git | GitHub | Figma | Docker (aprendiendo)  
+ **Otros:**
 <p align="align">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,discord,github,gmail,window" />
@@ -48,9 +48,9 @@
 ---
 
 ## 📫 Contacto  
-- ✉️ Email: [tuemail@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](#)  
-- 🐙 GitHub: [github.com/tuusuario](#)  
+- ✉️ Email: [burdallolopez67@gmail.com]  
+- 🐙 GitHub: [github.com/danielbl-67](#)
+- 🌐 Instagram: [danielbl_67](#).
 
 ---
 
