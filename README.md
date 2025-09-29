@@ -28,7 +28,7 @@
  **Entornos:**   
 <p align="align">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,intelli,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,androidstudio" />
   </a>
 </p>
  **Otros:**
