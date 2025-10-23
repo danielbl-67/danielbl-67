@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Daniel Burdallo]  
+# 👋 ¡Hola! Soy Daniel Burdallo
 
 🎓 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con el objetivo de convertirme en desarrollador especializado en aplicaciones móviles, de escritorio y web.  
 
