@@ -53,8 +53,6 @@
 ## 📫 Contacto  
 - ✉️ Email: [burdallolopez67@gmail.com]  
 - 🐙 GitHub: [github.com/danielbl-67](#)
-- 🌐 Instagram: [danielbl_67](#).
+- 🌐 Instagram: [@danielbl_67](#).
 
----
-
-✨ *“La mejor manera de aprender a programar es programando”*  
+--- 
