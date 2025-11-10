@@ -53,6 +53,6 @@ Lenguajes programacion
 ## 📫 Contacto  
 - ✉️ Email: [burdallolopez67@gmail.com]  
 - 🐙 GitHub: [github.com/danielbl-67](#)
-- 🌐 Instagram: [@danielbl_67](#).
+- 🌐 Instagram: <a href="(https://www.instagram.com/danielbl_67/)">@danielbl_67</a>
 
 --- 
