@@ -50,7 +50,7 @@ Soy un apasionado de la programación y la tecnología, con muchas ganas de apre
 ## 🚧 Proyectos destacados  
 
 ### 🏋️‍♂️ GYMZY (Proyecto Final de Grado)
-Aplicación enfocada en la gestión y seguimiento de rutinas de gimnasio.
+Aplicación gratuita para los usuarios y enfocada en ser utilizada y gestionada por nutricionistas y entrenadores personales autonomos.(PD: Habierto a ideas y mejoras)
 
 🔗 Repositorio:  
 👉 https://github.com/danielbl-67/gymzy
@@ -63,5 +63,3 @@ Aplicación enfocada en la gestión y seguimiento de rutinas de gimnasio.
 📸 Instagram: [@danielbl_67](https://www.instagram.com/danielbl_67/)
 
 ---
-
-⭐ ¡No dudes en explorar mis repositorios y dejar una estrella si te gusta mi trabajo!
