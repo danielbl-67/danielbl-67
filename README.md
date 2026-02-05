@@ -54,5 +54,6 @@ Lenguajes programacion
 - ✉️ Email: [burdallolopez67@gmail.com]  
 - 🐙 GitHub: [github.com/danielbl-67](#)
 - 🌐 Instagram: <a href="https://www.instagram.com/danielbl_67/">@danielbl_67</a>
+- 💻 Mi proyecto personal(PFG): <a href="https://github.com/danielbl-67/gymzy.git"></a>
 
 --- 
