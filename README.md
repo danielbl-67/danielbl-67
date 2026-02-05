@@ -23,7 +23,7 @@ Lenguajes programacion
  **Bases de datos:** 
 <p align="align">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Lenguajes programacion
  **Otros:**
 <p align="align">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,gmail,window,oracle,linux" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,gmail,window,linux" />
   </a>
 </p>
 
