@@ -37,7 +37,7 @@ Lenguajes programacion
  **Otros:**
 <p align="align">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,gmail,window,linux" />
+    <img src="https://skillicons.dev/icons?i=git,discord,github,gmail,window,maven,linux,notion,bots,bootstrap,bash" />
   </a>
 </p>
 
