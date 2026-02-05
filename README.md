@@ -1,59 +1,67 @@
-# 👋 ¡Hola! Soy Daniel Burdallo
+# 👋 ¡Hola! Soy Daniel Burdallo  
 
-🎓 Actualmente estoy estudiando **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con el objetivo de convertirme en desarrollador especializado en aplicaciones móviles, de escritorio y web.  
+🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+💡 Futuro desarrollador de **aplicaciones móviles, de escritorio y web**
 
 ---
 
 ## 🚀 Sobre mí  
-- 💻 Apasionado por la programación y la tecnología.  
-- 📚 En constante aprendizaje de lenguajes y buenas prácticas.  
-- 🤝 Abierto a colaborar en proyectos que me permitan crecer profesionalmente.  
-- 🌱 Actualmente profundizando en **Java, SQL, HTML, CSS y JavaScript**.  
+Soy un apasionado de la programación y la tecnología, con muchas ganas de aprender y crecer en el mundo del desarrollo de software. Me gusta crear proyectos prácticos, trabajar en equipo y mejorar continuamente mis habilidades.
+
+- 💻 Amante del código y las buenas prácticas  
+- 📚 Aprendiz constante de nuevas tecnologías  
+- 🤝 Abierto a colaborar en proyectos interesantes  
+- 🌱 Actualmente profundizando en **Java, SQL, HTML, CSS y JavaScript**
 
 ---
 
 ## 🛠️ Tecnologías y herramientas  
-Lenguajes programacion
-<p align="align">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java" />
-  </a>
+
+### 💻 Lenguajes de programación
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
- **Bases de datos:** 
-<p align="align">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
-  </a>
+### 🗄️ Bases de datos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
 </p>
 
- **Entornos:**   
-<p align="align">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,androidstudio" />
-  </a>
+### 🧰 Entornos de desarrollo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,androidstudio" />
 </p>
 
- **Otros:**
-<p align="align">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,github,gmail,maven,linux,notion,bots,bootstrap,bash,windows" />
-  </a>
+### 🔧 Otras herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,windows,bash,bootstrap,notion,discord" />
 </p>
 
 ---
 
 ## 📈 Objetivos  
-✔️ Finalizar con éxito el ciclo de DAM  
+✔️ Finalizar con éxito el ciclo de **DAM**  
 ✔️ Desarrollar proyectos propios y en equipo  
-✔️ Crear un portafolio sólido para dar el salto al mundo laboral  
+✔️ Crear un **portafolio sólido**  
+✔️ Dar el salto al **mundo laboral como desarrollador**
+
+---
+
+## 🚧 Proyectos destacados  
+
+### 🏋️‍♂️ GYMZY (Proyecto Final de Grado)
+Aplicación enfocada en la gestión y seguimiento de rutinas de gimnasio.
+
+🔗 Repositorio:  
+👉 https://github.com/danielbl-67/gymzy
 
 ---
 
 ## 📫 Contacto  
-- ✉️ Email: [burdallolopez67@gmail.com]  
-- 🐙 GitHub: [github.com/danielbl-67](#)
-- 🌐 Instagram: <a href="https://www.instagram.com/danielbl_67/">@danielbl_67</a>
-- 💻 Mi proyecto personal(PFG): <a href="https://github.com/danielbl-67/gymzy.git"> GYMZY </a>
+📧 Email: **burdallolopez67@gmail.com**  
+🐙 GitHub: https://github.com/danielbl-67  
+📸 Instagram: [@danielbl_67](https://www.instagram.com/danielbl_67/)
 
---- 
+---
+
+⭐ ¡No dudes en explorar mis repositorios y dejar una estrella si te gusta mi trabajo!
