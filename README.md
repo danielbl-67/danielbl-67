@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mí  
-Soy un apasionado de la programación y la tecnología, con muchas ganas de aprender y crecer en el mundo del desarrollo de software. Me gusta crear proyectos prácticos, trabajar en equipo y mejorar continuamente mis habilidades.
+Soy un chico al que le gusta la programación y la tecnología, con muchas ganas de aprender y crecer en el mundo del desarrollo de software. Me gusta crear proyectos prácticos, trabajar en equipo y mejorar continuamente mis habilidades.
 
 - 💻 Amante del código y las buenas prácticas  
 - 📚 Aprendiz constante de nuevas tecnologías  
