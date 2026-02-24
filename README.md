@@ -19,6 +19,6 @@ Soy un chico al que le gusta la programación y la tecnología, con muchas ganas
 - 📧 Email: **burdallolopez67@gmail.com**  
 - 🐙 GitHub: https://github.com/danielbl-67  
 - 📸 Instagram: [@danielbl_67](https://www.instagram.com/danielbl_67/)
-- 🌍 WebSite: [Website](https://danielbl-67.github.io)
+- 🌍 Portafolio: [Portafolio](https://danielbl-67.github.io)
 
 ---
