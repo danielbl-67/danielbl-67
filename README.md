@@ -32,6 +32,6 @@ Aquí puedes ver un resumen de mi actividad y lenguajes más usados en tiempo re
 ### 📬 ¿Hablamos?
 Puedes encontrarme activo en mis redes o escribirme directamente:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielburdallopez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielburdallolopez)
 [![Email](https://img.shields.io/badge/Email-burdallolopez67@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burdallolopez67@gmail.com)
-[![Sitio Web](https://img.shields.io/badge/Portafolio_Web-💻-black?style=for-the-badge)](https://danielbl67.vercel.app/)
+[![Sitio Web](https://img.shields.io/badge/Portafolio_Web-💻-black?style=for-the-badge)]([https://danielbl67.vercel.app/](https://burdallodev.vercel.app/))
